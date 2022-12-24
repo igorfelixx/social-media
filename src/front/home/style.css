@@ -1,0 +1,43 @@
+.form{
+    margin: auto;
+    width: 50%;
+    background-color: #cccccc5d;
+    border: 1px solid black;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 1rem;
+    margin-top: 5rem;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+label{
+    width: 10rem;
+    height: 5rem;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.post{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
+
+input[type="text"]{
+    padding: .7rem;
+    width: 50%;
+    border-radius: 10rem;
+    border: 1px solid black;
+}
+.Profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cccccc9f;
+    border-radius: 50%;
+    width: 3rem;
+}

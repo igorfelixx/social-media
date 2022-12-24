@@ -1,0 +1,25 @@
+.Feed{
+    position: fixed;
+    display: flex;
+    margin-top: 9.7vh;
+    flex-direction: column;
+    background-color: #bebebe;
+    width: 20%;
+    height: 100vh;
+    padding: 2rem;
+}
+
+.Feed ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.Feed ul li{
+    padding: 15px;
+    margin-left: -60px;
+}
+.Feed ul li:hover{
+    background-color: #cfcfcf;
+    border-radius: 10rem;
+}

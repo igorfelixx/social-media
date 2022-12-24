@@ -1,0 +1,74 @@
+.mainProfile{    
+    margin: 4% auto;
+    width: 60%;
+    height: 50vh;
+    background-color: #bebebe;
+    border-radius: 0 0 2rem 2rem;
+}
+
+.capa2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.bannerCapa{
+    width: 100%;
+    height: 50vh;
+    border-radius: 0 0 2rem 2rem;
+    margin: 0;
+}
+
+.toggleCapa{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8d6d6;
+    border-radius: 2rem 0 2rem 0;
+    gap: 2px;
+    height: 3rem;
+    top: 52.7vh;
+}
+
+button{
+    border: 0;
+    background-color: white;
+}
+
+.ProfileCapa{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cccccc9f;
+    border-radius: 50%;
+    width: 15rem;
+    height: 15rem;
+    border: .4rem solid white;
+}
+
+.toggleFoto{
+    position: absolute;
+    left: 90%;
+    top: 70%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #bebebe;
+    border-radius: 50%;
+}
+
+.fotoPerfil{
+    margin: auto;
+   border-radius: 50%;
+    width: 15rem;
+    height: 15rem;
+    border: .4rem solid white;
+}

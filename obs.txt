@@ -1,0 +1,3 @@
+base64 = converter imagem para texto
+
+quando eu quero trasmitir a imagem em formato de texto. exemplo = salvar a imagem no banco de dados
